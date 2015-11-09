@@ -1,0 +1,13 @@
+C:\Users\mostap\Documents\Visual Studio 2015\Projects\OfficeApp1\OfficeApp1\bin\Debug\roslyn\csc.exe
+C:\Users\mostap\Documents\Visual Studio 2015\Projects\OfficeApp1\OfficeApp1\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mostap\Documents\Visual Studio 2015\Projects\OfficeApp1\OfficeApp1\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mostap\Documents\Visual Studio 2015\Projects\OfficeApp1\OfficeApp1\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mostap\Documents\Visual Studio 2015\Projects\OfficeApp1\OfficeApp1\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mostap\Documents\Visual Studio 2015\Projects\OfficeApp1\OfficeApp1\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mostap\Documents\Visual Studio 2015\Projects\OfficeApp1\OfficeApp1\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mostap\Documents\Visual Studio 2015\Projects\OfficeApp1\OfficeApp1\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\mostap\Documents\Visual Studio 2015\Projects\OfficeApp1\OfficeApp1\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\mostap\Documents\Visual Studio 2015\Projects\OfficeApp1\OfficeApp1\bin\Debug\roslyn\vbc.exe
+C:\Users\mostap\Documents\Visual Studio 2015\Projects\OfficeApp1\OfficeApp1\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\mostap\Documents\Visual Studio 2015\Projects\OfficeApp1\OfficeApp1\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\mostap\Documents\Visual Studio 2015\Projects\OfficeApp1\OfficeApp1\obj\Debug\OfficeApp1.csprojResolveAssemblyReference.cache

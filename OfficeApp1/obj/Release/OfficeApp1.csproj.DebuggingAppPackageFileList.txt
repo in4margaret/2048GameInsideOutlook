@@ -1,0 +1,2 @@
+bin\Release\OfficeAppManifests\OfficeApp1Manifest.xml
+c:\users\mostap\documents\visual studio 2015\Projects\OfficeApp1\OfficeApp1\bin\Release\OfficeApp1.debugapp
